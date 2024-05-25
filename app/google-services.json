@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170286947778",
+    "project_id": "mplayer-fee79",
+    "storage_bucket": "mplayer-fee79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170286947778:android:177ee27578a1c15ae18a5b",
+        "android_client_info": {
+          "package_name": "com.example.mplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4jd9RmfUiUSQC7fbUBQVzzTW9gnRrijo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
